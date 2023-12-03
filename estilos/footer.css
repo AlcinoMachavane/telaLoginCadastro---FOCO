@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+footer{
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgba(98, 39, 68, 0.08);
+}
+
+p.foot{
+    color: black;
+}
+
+a.foot{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+div.foot{
+    display: inline-block;
+    text-align: left;
+    min-width: 200px;
+    width: 20vw;
+    margin: 20px;
+}
+/*background-image: linear-gradient(to right, #622744, #C53364)*/
